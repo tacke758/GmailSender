@@ -1,0 +1,10 @@
+ISO-2022-JP
+yuki.takeichi@gmail.com
+株式会社ほげほげ
+採用選考のお知らせ
+
+%(full_name)s さん
+%(short_name)sさん、こんにちは株式会社ほげほげです。
+採用選考受けてくださいね☆
+
+株式会社ほげほげ
